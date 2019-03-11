@@ -1,0 +1,14 @@
+{
+ "compilerOptions": {
+     "module": "system",
+     "target":"es5",
+     "outFile": "main.js",
+     "outDir": "dist/js"
+ },
+ "include": [
+    "src/**/*.ts"
+ ],
+ "exclude": [
+    "node"
+ ]
+}
